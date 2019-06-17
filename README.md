@@ -1,3 +1,5 @@
+### NOTE: This repo got deprecated. We split it into separate repos. Please see [hydrogen.module.core](https://github.com/magnetcoop/hydrogen.module.core), [hydrogen.module.session.cognito](https://github.com/magnetcoop/hydrogen.module.session.cognito) and [hydrogen.module.session.keycloak](https://github.com/magnetcoop/hydrogen.module.session.keycloak)
+
 # hydrogen.module.cljs for Duct
 
 It implements two modules for [Duct](https://github.com/duct-framework/duct).
